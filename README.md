@@ -44,7 +44,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.Sujan-Murugesh:android-morphing-button:1.0'
+    implementation 'com.github.Sujan-Murugesh:android-morphing-button:1.0'
 }
 ```
 
